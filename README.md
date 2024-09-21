@@ -6,7 +6,8 @@
   ![Screenshot 2024-09-22 011338](https://github.com/user-attachments/assets/283572d1-2138-4a0a-a09e-1b2371f627cd)
 
 
-![Screenshot 2024-09-
+![Screenshot 2024-09-22 011354](https://github.com/user-attachments/assets/58f245ed-2eeb-461c-bedb-b0e56bada31d)
+
 
 
 ![all5](https://github.com/user-attachments/assets/556cfa66-939f-4808-bbf7-a85f71ab8edb)
