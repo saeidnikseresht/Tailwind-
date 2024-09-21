@@ -20,7 +20,7 @@
 
 - Created - 9/22/2024 september
 
--👉 Technologies Used - Html , css , js ,animation
+-👉 Technologies Used tailwind - Html , css , js ,animation.
 
 - Hooks Used : useState 
 
