@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family:slabo;
+    src: url("../font/Slabo27px-Regular.ttf") format("opentype");
+    
+    
+  }
+  
+  
+
+  @keyframes anime1{
+    0%, 45%{transform: perspective(500px) rotateX(0deg);}
+    50%, 100%{transform: perspective(500px) rotateX(90deg);}
+    
+  }
+  @keyframes anime2{
+    0%, 45%{transform: perspective(800px) rotateX(90deg);}
+    50%, 100%{transform: perspective(800px) rotateX(0deg);}
+  }
